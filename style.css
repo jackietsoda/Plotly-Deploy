@@ -1,0 +1,52 @@
+body {
+
+  color: black;
+  font-family: Rockwell;
+}
+
+.jumbotron {
+  background-size: 100% 100%;
+  opacity: 0.7;
+  text-align: center;
+  color: rgb(16, 119, 209);
+  /* text-shadow: 3px 3px 8px whitesmoke; */
+  
+} 
+
+.well {
+background-color: rgb(177, 206, 231);
+font-family: Bookman;
+font-weight: 90;
+font-size: smaller;
+
+
+}
+
+.panel {
+  background-color: rgb(177, 206, 231);
+  font-family: Bookman;
+  font-weight: 90;
+  
+    }
+
+
+#know {
+font-family: Bookman;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
+
+#otu {
+font-family: Bookman;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
+
+#scrub{
+font-family: Bookman;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
